@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Swathi 👋
 
-<!--
-**swathi1107/swathi1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer passionate about building real-world applications using Java, Python, Web Development, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning**
+- Java
+- Data Structures & Algorithms
+- Web Development
+- Machine Learning
+
+## 🛠️ Skills
+
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+- 🚗 Vehicle Radar System
+- 🏥 Hospital Management System
+- 🤖 Mini Personal Assistant
+- 🌱 AI Crop Disease Detection
+
+## 📫 Connect with Me
+
+- 📧 Email: **swathibhandary2006@gmail.com**
+- 💼 LinkedIn: **https://linkedin.com/in/swathi-bhandary-364404330**
